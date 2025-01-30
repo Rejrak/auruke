@@ -1,0 +1,7 @@
+
+- **NovaVenezia**: Capitale di IndustriaNova, un conglomerato di isole della vecchia Venezia unite alla terraferma, inclusa l'area industriale della vecchia Marghera. NovaVenezia è un centro industriale e artistico di prestigio mondiale. Comprende il distretto universitario delle vecchie Università Patavine e una rete ferroviaria di comunicazione avanzata.
+- **Lusaria**: Una città moderna, luminosa e cosmopolita, grazie a una rete elettrica avanzata. Centro della moda e dei negozi di lusso, ospita prestigiose sale da tè e boutique.
+- **[[CroceScaligera]]**: Situata nell'antica Verona, funge da crocevia per i principali scambi commerciali e ferroviari.
+- **Fumalisia**: Nel Principato di Meccaliso, questa fortezza industriale produce macchine automatizzate e ospita un treno ad alta velocità che collega Mineraria e Silvium. Vi si trova anche un osservatorio per lo studio delle isole fluttuanti.
+- **Florindia**: Situata nella vecchia Firenze, è un grande polo industriale che include la cittadina di Palistia (la vecchia Siena) e una riserva nell'ex area sommersa di Lucta.
+- **Genorbis**: Protetta dalla cupola ambientale Sirio 81 VIS, ospita il primo laboratorio marino e un porto specializzato nella costruzione di macchine subacquee per l'esplorazione dei fondali marini.

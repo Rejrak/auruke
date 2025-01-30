@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politica/Situazione Politica in Auruke.md",
+                "file": "Politica/IdentiTarga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Situazione Politica in Auruke"
+              "title": "IdentiTarga"
+            }
+          },
+          {
+            "id": "02a336d9a87983bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "ecf1dda49ec3941d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nazioni/Teutonova.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teutonova"
             }
           }
         ]
@@ -176,12 +200,18 @@
   },
   "active": "1c7fba2408dbc900",
   "lastOpenFiles": [
+    "giocatori/Intro.md",
+    "Politica/Situazione Politica in Auruke.md",
+    "Nazioni/IndustriaNova/CroceScaligera.md",
+    "Nazioni/IberNova.md",
+    "Politica/IdentiTarga.md",
+    "giocatori",
+    "Nazioni/IndustriaNova/IndustriaNova.md",
     "Nazioni/Teutonova.md",
     "Nazioni/Nordova.md",
-    "Nazioni/IndustriaNova.md",
     "Nazioni/Impero Fuso.md",
-    "Nazioni/IberNova.md",
-    "Politica/Situazione Politica in Auruke.md",
+    "Nazioni/IndustriaNova",
+    "**guanti di status**.md",
     "README.md",
     "Politica",
     "Nazioni",
